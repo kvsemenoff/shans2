@@ -1,0 +1,324 @@
+.clear {
+  clear: both; }
+
+.df-caption {
+  text-align: center;
+  font-size: 22px;
+  color: #161616;
+  padding: 25px 0;
+  font-family: "Conv_pt-serif_[allfont.ru]"; }
+
+.df-left-blok {
+  max-width: 370px;
+  border: 2px solid #cccccc;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  background: #fff; }
+  .df-left-blok img {
+    display: inline-block;
+    padding-top: 65px;
+    padding-bottom: 50px; }
+
+.df-right-blok {
+  font-size: 15px;
+  color: #161616;
+  font-family: "Conv_pt-serif_[allfont.ru]";
+  line-height: 20px;
+  margin-bottom: 30px;
+  max-width: 345px;
+  position: relative; }
+  .df-right-blok .df-first-cap {
+    font-size: 22px; }
+  .df-right-blok .df-first-box, .df-right-blok .df-second-box, .df-right-blok .df-third-box {
+    padding-bottom: 20px; }
+  .df-right-blok span a {
+    color: #161616; }
+
+.df-contacts-caption {
+  font-size: 42px !important;
+  line-height: 32px;
+  text-align: center;
+  color: #161616;
+  padding: 25px 0;
+  font-family: "Conv_pt-serif_[allfont.ru]"; }
+
+.df-contacts {
+  font-family: "OpenSans-Regular";
+  font-size: 15px;
+  line-height: 20px;
+  color: #161616;
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 20px; }
+  .df-contacts .df-box1 {
+    padding-bottom: 10px; }
+
+.df-map {
+  height: 785px;
+  width: 100%;
+  margin-bottom: 25px; }
+
+.df-article-caption, .df-about-caption, .df-cosm-caption {
+  color: #161616;
+  font-family: "Conv_pt-serif_[allfont.ru]";
+  font-size: 42px;
+  text-align: center;
+  margin: 15px 0; }
+
+.df-about-caption {
+  margin-top: 0px; }
+
+.df-art-box {
+  background: #ebebeb;
+  border-radius: 5px;
+  margin-bottom: 20px; }
+  .df-art-box ul {
+    padding: 19px 30px 14px 31px; }
+    .df-art-box ul li a {
+      font-family: "Lato-Bold";
+      font-size: 15px;
+      color: #161616;
+      display: inline-block;
+      padding: 9px 0; }
+  .df-art-box .df-last {
+    background: #7ec142;
+    color: #fff;
+    font-family: "Lato-Bold";
+    font-size: 15px;
+    width: 100%;
+    height: 60px;
+    display: inline-block;
+    padding: 10px 45px 10px 30px;
+    padding-top: 19px;
+    margin-top: 32px;
+    border-radius: 0px 0px 5px 5px; }
+
+.df-about-text {
+  font-size: 15px;
+  line-height: 20px;
+  color: #161616;
+  font-family: "OpenSans-Regular"; }
+  .df-about-text p {
+    margin-bottom: 20px; }
+
+.df-img-about {
+  width: 100%; }
+  .df-img-about img {
+    width: 100%;
+    height: auto; }
+  .df-img-about .w20 {
+    width: 100%;
+    float: left;
+    position: relative;
+    overflow: hidden; }
+  .df-img-about .w40 {
+    width: 100%;
+    float: left;
+    position: relative;
+    overflow: hidden; }
+  .df-img-about .w33 {
+    width: 100%;
+    float: left;
+    position: relative;
+    overflow: hidden; }
+
+.df-mtop {
+  margin-top: -1px; }
+
+.df-tab-cap, .df-text-caption a {
+  color: #161616;
+  font-family: "Conv_pt-serif_[allfont.ru]";
+  font-size: 22px;
+  margin: 15px 0 10px 0; }
+
+.df-tab-first, .df-tab-second {
+  display: inline-block;
+  text-align: center;
+  width: 100%; }
+  .df-tab-first ul, .df-tab-second ul {
+    border: 1px solid #c7c7c7;
+    border-radius: 35px;
+    width: 100%;
+    background: #fff; }
+  .df-tab-first ul:after, .df-tab-second ul:after {
+    content: "";
+    display: block;
+    clear: both; }
+  .df-tab-first ul li, .df-tab-second ul li {
+    font-family: "Lato-Bold";
+    font-size: 13px;
+    color: #161616;
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+    display: block;
+    float: left;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    width: 100%; }
+  .df-tab-first ul li.active, .df-tab-first ul li.active:hover, .df-tab-second ul li.active, .df-tab-second ul li.active:hover {
+    background: #7dc141;
+    color: #fff;
+    border-radius: 50px; }
+
+.df-tab-second {
+  margin-bottom: 50px; }
+
+.df-tab-cap2 {
+  color: #161616;
+  font-family: "Conv_pt-serif_[allfont.ru]";
+  font-size: 22px;
+  margin: 15px 0 10px 0; }
+
+.df-cosmetics {
+  margin: 0 auto;
+  height: auto;
+  width: 230px;
+  overflow: hidden;
+  text-align: center;
+  margin-bottom: 15px; }
+  .df-cosmetics .df-img-cosm {
+    height: 343px;
+    width: 228px;
+    border: 2px solid #cccccc;
+    text-align: center;
+    padding-top: 17%;
+    background: #fff; }
+    .df-cosmetics .df-img-cosm img {
+      display: inline-block; }
+  .df-cosmetics .df-text-box .df-text-caption {
+    margin: 20px 0; }
+  .df-cosmetics .df-text-box p {
+    text-align: left;
+    font-size: 15px;
+    color: #161616;
+    font-family: "OpenSans-Regular"; }
+
+.df-cap-center {
+  color: #161616;
+  font-family: "Conv_pt-serif_[allfont.ru]";
+  font-size: 42px;
+  text-align: center;
+  margin: 29px 0; }
+
+.df-center-text {
+  margin-bottom: 40px; }
+  .df-center-text p {
+    font-size: 15px;
+    line-height: 20px;
+    color: #161616;
+    font-family: "OpenSans-Regular"; }
+
+@media only screen and (min-width: 480px) {
+  .df-contacts .df-box1 {
+    width: 50%;
+    float: left;
+    padding-bottom: 10px; }
+  .df-contacts .df-box2 {
+    width: 33%;
+    float: right; } }
+@media only screen and (min-width: 768px) {
+  .df-tab-first, .df-tab-second {
+    display: inline-block;
+    text-align: left; }
+    .df-tab-first ul, .df-tab-second ul {
+      border-radius: 50px;
+      width: auto;
+      display: inline-block; }
+    .df-tab-first ul li, .df-tab-second ul li {
+      width: auto; }
+
+  .df-cosmetics {
+    float: left;
+    margin-right: 15px;
+    height: 675px;
+    margin-bottom: 0px; }
+
+  .df-img-about {
+    margin: 0 auto;
+    text-align: center; }
+    .df-img-about img {
+      display: block;
+      position: absolute;
+      top: 0px;
+      left: 50%;
+      transform: translate(-50%, 0); }
+
+  .w20 {
+    width: 20% !important;
+    height: 300px; }
+    .w20 img {
+      width: unset !important; }
+
+  .w40 {
+    width: 40% !important;
+    height: 300px; }
+    .w40 img {
+      width: unset !important; }
+
+  .w33 {
+    width: 33.3% !important;
+    height: 300px; }
+    .w33 img {
+      width: unset !important; }
+
+  .df-margintop {
+    margin-top: 35px; } }
+@media only screen and (min-width: 992px) {
+  .df-caption, .df-contacts-caption {
+    padding: 43px 0 !important; }
+
+  .df-left-blok {
+    margin-right: 0px; }
+
+  .df-first-box, .df-second-box, .df-third-box {
+    padding-bottom: 37px; }
+
+  .df-contacts {
+    max-width: 600px; }
+    .df-contacts .df-box2 {
+      width: 40%; }
+
+  .df-art-box {
+    width: 20%;
+    min-width: 245px;
+    float: right; }
+    .df-art-box .df-article-caption {
+      margin-bottom: 35px; }
+
+  .df-about-text .df-about-caption {
+    margin-bottom: 25px; }
+
+  .df-max-width {
+    width: 100%;
+    padding: 0 100px;
+    max-width: 1115px;
+    margin: 0 auto; }
+
+  .df-last {
+    padding-top: 10px !important; }
+
+  .df-article-caption {
+    padding-left: 42px; }
+
+  .df-about-caption {
+    padding-left: 55px; }
+
+  .df-article-caption, .df-about-caption, .df-cosm-caption {
+    margin: 29px 0; } }
+@media only screen and (min-width: 1248px) {
+  .df-contacts {
+    max-width: 630px;
+    margin-bottom: 50px; }
+    .df-contacts .df-box2 {
+      width: 43%; }
+
+  .df-cosmetics {
+    margin-right: 43px; }
+
+  .dflast {
+    margin-right: 0px; } }
+
+/*# sourceMappingURL=style5.css.map */
